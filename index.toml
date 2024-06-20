@@ -250,6 +250,11 @@ hash = "c8740a8557f251afae78fff80b979131909997b259074c9e70bccc1cb88cb776"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "ad0f19d7f8555cf97e9704af45238d83df7fff161eca3b08af92050963eaa1a6"
+metafile = true
+
+[[files]]
 file = "mods/labels.pw.toml"
 hash = "285213bce90eecfcdb5e890d40c022d33df365802c5f1875c2905bca77595322"
 metafile = true
@@ -412,6 +417,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "d812e151028b7231d0e6bbd28a7b03a2b0e912c7052c0565e2f47e740717c298"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "f3dbbcc93a34c8ba38b2e5a1ab3d5e898099d420ded6bd14ac01e0a7386b3b9a"
 metafile = true
 
 [[files]]
