@@ -195,6 +195,11 @@ hash = "e86d9e98f5815992bea743d45fd4ae02fd13e2998895f452dd381cc12e3284f3"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "9f499eff7ddb9eeab719f19808cbcf41f2b77d06ebf946f157cf7b5f52f64e70"
+metafile = true
+
+[[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "8a9c5e182dc4d4792103277e2003062de2718a4167edb9082d69efcbfc19cb87"
 metafile = true
@@ -207,6 +212,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
@@ -242,6 +252,26 @@ metafile = true
 [[files]]
 file = "mods/immersive-melodies.pw.toml"
 hash = "71086f8974cad24543cd48f83a0f09b5a8bde7fa401c1e71f98e82a0f96a1308"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "523659698dcfb97f79c9971a9c3ce41ba5e654d55b0464d73da01a63cd9a1824"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "268c5ed7677153bbf1bc4d37e6d5825388fa5d444c67f4b399fd4ce708b773b5"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons-fabric.pw.toml"
+hash = "063ef9a509d15f98acd95d4032e617b90c9f0d105c8872b9186d6ed16672247a"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "d24bd05367fb73abe1e50347adc64ebe360b8f19019f37aeb991b9b722fe95a1"
 metafile = true
 
 [[files]]
@@ -440,6 +470,11 @@ hash = "7434dfd1c4b2c2c96d9555faac9859cb78649fb71ed840094117978c99c815ba"
 metafile = true
 
 [[files]]
+file = "mods/sodium.pw.toml"
+hash = "c3774af2e5f18da0c4cb00f95421a08bf9f0dda90a4169ce87b021d2f8d0dbce"
+metafile = true
+
+[[files]]
 file = "mods/spell-engine.pw.toml"
 hash = "6cf44dc38ce08ab21894db15bf46a9318fdbf65503dc6b620e5e3fda198722b6"
 metafile = true
@@ -477,6 +512,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "64254c688cb5b7e22ef17a129f9b7469899e14a322580e2a7988f4e5b75397f2"
 metafile = true
 
 [[files]]
