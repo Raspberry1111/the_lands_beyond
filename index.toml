@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "b21ae2874c28d9d157e60e2e383d5cc0a1f89d3d542987e919317ee0a100afc5"
+
+[[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "6fbfd9a00b617f2205c9b7739240201809eba8754093f5321aeb241f6ef6e1b4"
 metafile = true
