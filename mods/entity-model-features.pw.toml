@@ -11,3 +11,7 @@ hash = "6546b0b05863f43d3d9156ab06bf4f37d2db67ba"
 [update.modrinth]
 mod-id = "4I1XuqiY"
 version = "jkLvxFFA"
+
+[option]
+optional = true
+description = "Allows texture packs to modify models"

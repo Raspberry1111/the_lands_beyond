@@ -11,3 +11,7 @@ hash = "51b20efcb6c70057c98a42b2d3591fb6e84f2299"
 [update.modrinth]
 mod-id = "NcUtCpym"
 version = "szULGs3b"
+
+[option]
+optional = true
+description = "Adds a world map"

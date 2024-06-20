@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
+hash = "12bbbb79170eeb37fa3f42e2cbffb8e8f19e15c1bcf8ffa5706a979b31fdfaea"
 metafile = true
 
 [[files]]
@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/armor-statues.pw.toml"
-hash = "9a9176275e1662b362c8e0f9fabe9711c8a754f98c70e0d6caa937e5ca55cce4"
+hash = "c2934c3d89c1e0ab62a1cc87fe56bbb8510355722f977eb42ddf058cad7e5fc1"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "52dba30a707ef0cb51cd30462c47980de681e071d31e376f18bc507933ee2abb"
+hash = "e86d9e98f5815992bea743d45fd4ae02fd13e2998895f452dd381cc12e3284f3"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
+hash = "43db4132abce43dbb4f05e1c2458dfafab6f94079c2b84320ee37eaa0bb05de1"
 metafile = true
 
 [[files]]
@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "dfcf0446ce11ef9691761c4a696b7ca8763854d977c5074a56fa266d92aebd86"
+hash = "5eba4f9065a663739abc3e2d35cb978fe55f3c290a6d4821c4d8943f9fb902d1"
 metafile = true
 
 [[files]]
@@ -447,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/tooltipfix.pw.toml"
-hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
+hash = "cd8e6e9b821d3047f20fb305015f3eac3c6315affb25655530ddc88b15f0c2ae"
 metafile = true
 
 [[files]]
@@ -471,13 +471,18 @@ hash = "6e9f963c724704938e4349bb23cad0701951bcd196e5b62ab2f0a9d357a7fe0e"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap-fair.pw.toml"
+hash = "91290055dee364413eb86b3f8622737586f1c149dae045305acb193c93c3fec7"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "74a5d6dc2fa3494650bf951f2212c70eeb6b8d1af209b5dab4b7a8582302865c"
+hash = "c6c08e5b58600a67fd98c18b0ed5277da5f10f033a2a09b138985f2a9ef4cea1"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "a66f114b66d41c0de64f6d7cb00d253b858ecb8dfef497aed5feac1a690111a2"
+hash = "3fbc28de77050295da5b9d75ed2cd0497cc0e6e5ce0a579d5b35d92166d9de4d"
 metafile = true
 
 [[files]]
@@ -529,7 +534,3 @@ metafile = true
 file = "mods/yungs-bridges.pw.toml"
 hash = "ee076e84e2052ccff9ac179298b241fb9f55d82fdef64f2c704d4b37254fe92f"
 metafile = true
-
-[[files]]
-file = "urls"
-hash = "2ad6417c4bfea386bf99daea4352ab5e1a9f338807089c2bf3c442c427ebc1c2"

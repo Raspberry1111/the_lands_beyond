@@ -11,3 +11,7 @@ hash = "e11167ff43ba9b3eb8193b034602095a69104b35"
 [update.modrinth]
 mod-id = "MPCX6s5C"
 version = "hevbf7OI"
+
+[option]
+optional = true
+description = "Adds more animations"
