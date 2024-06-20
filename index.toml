@@ -320,6 +320,11 @@ hash = "72b2a495aae6c3fdee3fac74de0f94d1cfc85514e396103c29552dc4d57fe68d"
 metafile = true
 
 [[files]]
+file = "mods/map-atlases.pw.toml"
+hash = "6bdcc4657a59339b1849d1a4757aa551394fe6effc3b602b46f4ddc6933bea85"
+metafile = true
+
+[[files]]
 file = "mods/medieval-origins-revival.pw.toml"
 hash = "0ca16d35ac3debd59f5dfb5be2f09239dc9638cc02d5a460874b2f5745708542"
 metafile = true
@@ -472,16 +477,6 @@ metafile = true
 [[files]]
 file = "mods/wizards.pw.toml"
 hash = "6e9f963c724704938e4349bb23cad0701951bcd196e5b62ab2f0a9d357a7fe0e"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap-fair.pw.toml"
-hash = "91290055dee364413eb86b3f8622737586f1c149dae045305acb193c93c3fec7"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "3fbc28de77050295da5b9d75ed2cd0497cc0e6e5ce0a579d5b35d92166d9de4d"
 metafile = true
 
 [[files]]
