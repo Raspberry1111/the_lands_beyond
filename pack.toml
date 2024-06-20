@@ -1,0 +1,13 @@
+name = "The Lands Beyond"
+author = "Someone"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "496135cb4c26c77c3a18749390f3bdcfef6ccaca88f7f36ddddbe029eb46b215"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.20.1"

@@ -1,0 +1,13 @@
+name = "Apugli"
+filename = "Apugli-2.10.2+1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1qeWG44Y/versions/yFVxHt8m/Apugli-2.10.2%2B1.20.1-fabric.jar"
+hash-format = "sha1"
+hash = "8679418d7009750b1498789a1f10e974f9384783"
+
+[update]
+[update.modrinth]
+mod-id = "1qeWG44Y"
+version = "yFVxHt8m"
