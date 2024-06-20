@@ -585,5 +585,10 @@ hash = "ee076e84e2052ccff9ac179298b241fb9f55d82fdef64f2c704d4b37254fe92f"
 metafile = true
 
 [[files]]
+file = "mods/zoomify.pw.toml"
+hash = "a51571b7557fc666394293d48aa2f95611046984b5d30971612ec67af169b7d4"
+metafile = true
+
+[[files]]
 file = "todo.md"
-hash = "dbccbf85fa0b3ab01fd1aec63923802eb4e41741052f892979b4aeb90caa1337"
+hash = "da1e08b388f39beb3d686ab457d156cbd8a306f65f0ea99b905b2c058c1e537a"
