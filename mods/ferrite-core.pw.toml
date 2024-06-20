@@ -11,3 +11,7 @@ hash = "8fa3b84fc5860dbc30fdf8cced02af68dffcf3fa"
 [update.modrinth]
 mod-id = "uXXizFIs"
 version = "unerR5MN"
+
+[option]
+optional = true
+description = "Optimization"

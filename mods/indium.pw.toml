@@ -11,3 +11,7 @@ hash = "6689db86e97a6e112c36d276070fb537a1f3596e"
 [update.modrinth]
 mod-id = "Orvt0mRa"
 version = "XPsoVC5n"
+
+[option]
+optional = true
+description = "Required if running Sodium"

@@ -11,3 +11,7 @@ hash = "d6894508d74e5f01fb525b5b89d20ac4e54257b6"
 [update.modrinth]
 mod-id = "NNAgCjsB"
 version = "F3RXDl1W"
+
+[option]
+optional = true
+description = "Optimization"

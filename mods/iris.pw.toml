@@ -11,3 +11,7 @@ hash = "574992b5760f3bf2f9aa0b70984f19fb1952b748"
 [update.modrinth]
 mod-id = "YL57xq9U"
 version = "G5dd9TM4"
+
+[option]
+optional = true
+description = "Adds shader support. Requires Sodium to work"

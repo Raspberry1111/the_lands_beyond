@@ -11,3 +11,7 @@ hash = "7ce9f9002e831e089d2bba8ed5fe1780bd927e76"
 [update.modrinth]
 mod-id = "nvQzSEkH"
 version = "re9m40O9"
+
+[option]
+optional = true
+description = "Tells you what you're looking at. Fork of WTHIT"
