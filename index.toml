@@ -100,6 +100,16 @@ hash = "bd1983d507965791b48d2d30e53609be50887fdec8b7c7c33cf716b41b4e95f5"
 metafile = true
 
 [[files]]
+file = "mods/blossomlib.pw.toml"
+hash = "1f8282011aff9b7dd11cf2568f85ee72635b7927d79b423aa38494d0733eac67"
+metafile = true
+
+[[files]]
+file = "mods/blossomtpa.pw.toml"
+hash = "e6702c94b6ac5ce552b91db8319b9075bd7ea1c74baab7987b8ad9fc51055b4d"
+metafile = true
+
+[[files]]
 file = "mods/bosses-of-mass-destruction.pw.toml"
 hash = "31a75fd95d5c670301f8f135ae702e6913a43a7605a28e44425f4838b30f338e"
 metafile = true
@@ -277,6 +287,11 @@ metafile = true
 [[files]]
 file = "mods/just-mob-heads.pw.toml"
 hash = "c8740a8557f251afae78fff80b979131909997b259074c9e70bccc1cb88cb776"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "5ec33710d20595477f61363961ab3d6cc9b0b546054f68fced9e9654d9050734"
 metafile = true
 
 [[files]]
