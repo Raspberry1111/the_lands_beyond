@@ -20,6 +20,11 @@ hash = "6f8bb5750d793ffd21bef058f0f63121e1d87bd0c90ffc7ac2d237e5f451f139"
 metafile = true
 
 [[files]]
+file = "mods/antique-atlas-4.pw.toml"
+hash = "b7210cb5c235c1ba478b1b6816bf9ce5700023ae9a1274f587ba258946184704"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "12bbbb79170eeb37fa3f42e2cbffb8e8f19e15c1bcf8ffa5706a979b31fdfaea"
 metafile = true
@@ -397,6 +402,16 @@ metafile = true
 [[files]]
 file = "mods/more-craftings-of-runes.pw.toml"
 hash = "99bba94b8b8053232eb15b898521cd5fd9fe22f25a772d7d98b8ec200956462f"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "4d4358cc39848487d843bc6ccb9fbbc5f50a1728dabcab002ba209d864d0b084"
+metafile = true
+
+[[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "952334c9f23d3093534b0146106759f0bc086711a947a4fafad94733a0f34e2c"
 metafile = true
 
 [[files]]
